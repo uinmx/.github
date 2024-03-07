@@ -1,7 +1,7 @@
 ## Hi there 👋
 
+👩‍💻 这个是一个模板仓库，为调试场景或新项目搭建，提供一个简易的参考模板
 👩‍💻 This is a React and Vue project template library
-
 <!--
 
 **Here are some ideas to get you started:**
